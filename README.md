@@ -8,10 +8,4 @@ If you want a Homebrew that is not here, make a new issue with the "New Homebrew
 
 If you want me remove homebrew that you made, please make an issue with the "Remove Homebrew" and I will do it as fast as I can.
 
-This is purely to learn about ds homebrewing.
-
-Credits:
-
-flappybird.nds by Polymars
-
-sDepS.nds by Stormwave
+This is purely to learn about ds homebrewing
