@@ -1,19 +1,7 @@
 # DS-Homebrew
 
-This is where I will be storing different Homebrews for the DS and DSI.
+I'm creating a resource to store DS and DSi homebrew with QR codes for easy access, specifically tested on official DSi consoles running Twilight Menu++. My goal is to make it simpler for users to install homebrew and themes
+directly onto their devices. Since the Universal team has contributed some QR codes but not many, I’m expanding this collection to include more homebrew options. If there's a homebrew you want that isn't listed, I encourage
+users to open an issue with the "New Homebrew" tag. Likewise, if someone wants me to remove a homebrew, they can create an issue with the "Remove Homebrew" tag, and I'll take care of it as quickly as possible.
 
-I will make a qr code for dsidl for every homebrew I add.
-
-Every QR Code is tested to work on one or more official Nintendo DSI's running Twilight Menu ++.
-
-I have not tested these on r4 cards.
-
-If you want a Homebrew that is not here, make a new issue with the "New Homebrew" tag.
-
-Universal team made dsidl and added qr codes on some homebrew but not many so I guess this was also made to have more qr codes.
-
-If you want me remove homebrew that you made, please make an issue with the "Remove Homebrew" and I will do it as fast as I can.
-
-This is purely to learn about ds homebrewing
-
-I also will add themes for Twilight Menu ++ with a QR Code to download them.
+This project is a way for me to learn more about DS homebrewing, and I’m hoping it helps others in the community as well. I’ll also be adding themes for Twilight Menu++ with QR codes for easy download. My goal is to keep everything secure, up-to-date, and organized, while also encouraging feedback from the community to ensure the resource stays useful and accurate. By sharing and expanding this collection, I’m hoping to contribute to the homebrew community and make it easier for others to enjoy homebrew on their DSi systems.
